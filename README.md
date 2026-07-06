@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdelrhman Elktawey
 
-### 🚀 A GeoAI Researcher
+### 🚀 GeoAI Researcher | Harnessing Data & AI for Sustainable Development & Climate Resilience
 I am passionate about combining geospatial analytics with artificial intelligence to build intelligent, location-aware systems.
 
 ---
