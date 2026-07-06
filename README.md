@@ -3,23 +3,27 @@
 ### 🚀 GeoAI Researcher | Harnessing Data & AI for Sustainable Development & Climate Resilience
 I am passionate about combining geospatial analytics with artificial intelligence to build intelligent, location-aware systems.
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aelk23&label=Profile%20views&color=0e75b6&style=flat" alt="Abdelrhman Elktawey" />
+</p>
+
 ---
 
 ## 🖥️ Technical Skills:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="48" height="48" style="margin: 3px;" />
   <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
   <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
   <img src="https://skillicons.dev/icons?i=scikit_learn" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
   <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
   <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
-  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="48" height="48" style="margin: 3px;" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="48" height="48" style="margin: 3px;" />
   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
   <img src="https://skillicons.dev/icons?i=css" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="48" height="48" style="margin: 3px;" />
   <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
   <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
   <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
