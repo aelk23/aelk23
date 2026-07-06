@@ -41,8 +41,9 @@ I am passionate about combining geospatial analytics with artificial intelligenc
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelk23&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aelk23&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <!-- استخدام سورس أنظف وأسرع بدون حد أقصى للارتفاع يسبب تلف الصورة -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aelk23&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aelk23&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -58,7 +59,8 @@ I am passionate about combining geospatial analytics with artificial intelligenc
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aelk23&theme=onedark" alt="GitHub Trophies" />
+  <!-- تم إضافة برومبت البريك كاش لضمان الإجبار على التحميل المستمر -->
+  <img src="https://github-profile-trophy.vercel.app/?username=aelk23&theme=onedark&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
