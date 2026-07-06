@@ -66,6 +66,14 @@ I am passionate about combining geospatial analytics with artificial intelligenc
 
 ---
 
+## 🎮 GitHub Contribution Game:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aelk23/aelk23/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="left">
