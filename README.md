@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Abdelrhman Elktawey
 
 ### 🚀 A GeoAI Researcher
-I am passionate about combining geospatial analytics with artificial intelligence to build intelligent, location-aware systems.[cite: 1]
+I am passionate about combining geospatial analytics with artificial intelligence to build intelligent, location-aware systems.
 
 ---
 
 ## 🖥️ Technical Skills:
 
-<!-- الأيقونات مجمعة مع تطبيق انحناء زوايا One UI (border-radius: 12px) -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
   <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
@@ -55,11 +54,10 @@ I am passionate about combining geospatial analytics with artificial intelligenc
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies & Summary:
 
 <p align="center">
-  <!-- تم استبدال السيرفر المعطل بسيرفر جوائز مستقر وبنفس التصميم الداكن الفخم -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aelk23&theme=zenburn" alt="GitHub Trophies & Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aelk23&theme=cyberpunk" alt="GitHub Cyberpunk Profile Details" />
 </p>
 
 ---
