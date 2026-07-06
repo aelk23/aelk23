@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Abdelrhman Elktawey
 
 ### 🚀 A GeoAI Researcher
-I am passionate about combining geospatial analytics with artificial intelligence to build intelligent, location-aware systems.
+I am passionate about combining geospatial analytics with artificial intelligence to build intelligent, location-aware systems.[cite: 1]
 
 ---
 
 ## 🖥️ Technical Skills:
 
-<!-- هنا تم تجميع كل مهاراتك من ملف الـ JSON مع تطبيق انحناء زوايا One UI (border-radius: 12px) -->
+<!-- الأيقونات مجمعة مع تطبيق انحناء زوايا One UI (border-radius: 12px) -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
   <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
@@ -64,7 +64,7 @@ I am passionate about combining geospatial analytics with artificial intelligenc
   <a href="https://github.com/aelk23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoRadius=5" />
   </a>
-  <a href="https://linkedin.com/in/Abdelrhman Elktawey" target="_blank">
+  <a href="https://www.linkedin.com/in/abdelrhman-elktawey/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoRadius=5" />
   </a>
 </p>
