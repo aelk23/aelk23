@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Abdelrhman Elktawey
 
 ### 🚀 A GeoAI Researcher
-I am passionate about combining geospatial analytics with artificial intelligence to build intelligent, location-aware systems.[cite: 1]
+I am passionate about combining geospatial analytics with artificial intelligence to build intelligent, location-aware systems.
 
 ---
 
 ## 🖥️ Technical Skills:
 
-<!-- الأيقونات مجمعة مع تطبيق انحناء زوايا One UI (border-radius: 12px) -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
   <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" style="border-radius: 12px; margin: 3px;" />
@@ -58,8 +57,7 @@ I am passionate about combining geospatial analytics with artificial intelligenc
 ## 🏆 GitHub Trophies & Activity Graph:
 
 <p align="center">
-  <!-- جرافيك مينيمال مخصص: خط نحيف، نقاط بيضاء صغيرة جداً، وحركة تتكرر ديناميكياً -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aelk23&theme=react-dark&bg_color=000000&color=0055ff&line=00a3ff&point=ffffff&area=false&hide_border=true&custom_title=Activity%20Pulse" alt="Abdelrhman's GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aelk23&theme=react-dark&bg_color=000000&color=0073e6&line=00a3ff&point=ffffff&hide_border=true" alt="Abdelrhman's GitHub Activity Graph" width="100%" />
 </p>
 
 ---
