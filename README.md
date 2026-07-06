@@ -54,10 +54,10 @@ I am passionate about combining geospatial analytics with artificial intelligenc
 
 ---
 
-## 🏆 GitHub Trophies & Summary:
+## 🏆 GitHub Trophies & Activity Graph:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aelk23&theme=cyberpunk" alt="GitHub Cyberpunk Profile Details" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aelk23&theme=react-dark&bg_color=000000&color=0073e6&line=00a3ff&point=ffffff&hide_border=true" alt="Abdelrhman's GitHub Activity Graph" width="100%" />
 </p>
 
 ---
