@@ -59,10 +59,8 @@ I am passionate about combining geospatial analytics with artificial intelligenc
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-  <!-- تم إضافة برومبت البريك كاش لضمان الإجبار على التحميل المستمر -->
-  <img src="https://github-profile-trophy.vercel.app/?username=aelk23&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-badges.vercel.app/api/badges?username=aelk23&theme=dark" alt="GitHub Trophies" />
 </p>
-
 ---
 
 ## 🌐 Connect with Me
