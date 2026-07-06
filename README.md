@@ -41,19 +41,16 @@ I am passionate about combining geospatial analytics with artificial intelligenc
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <!-- إحصائيات اللغات المستخدمة -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelk23&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="165" />
-  
-  <!-- إحصائيات الحساب العام بداخلها رتبة العداد الملتف -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aelk23&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelk23&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aelk23&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <!-- بطاقة العداد التفاعلي المستمر (Streak Stats) كما بالصورة تماماً -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aelk23&theme=dark" alt="GitHub Streak" height="165" />
-  
-  <!-- صورة الهوية المتوهجة البرمجية المتناسقة مع قسم العداد -->
-  <img src="https://user-images.githubusercontent.com/74038190/225841443-bf804f14-9764-4e42-9907-fcf8cae640ec.gif" alt="Coding Neon" height="165" style="border-radius: 12px; padding-left: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aelk23&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225841443-bf804f14-9764-4e42-9907-fcf8cae640ec.gif" alt="Coding Neon" width="250" style="border-radius: 12px;" />
 </p>
 
 ---
