@@ -76,7 +76,7 @@ I am passionate about combining geospatial analytics with artificial intelligenc
 
 ## 🌐 Connect with Me
 
-اكتب_كود_الخطوة_الأولى_هنا
+[حط كود الـ Script بتاع الخطوة الأولى هنا]
 
 <p align="left">
   <a href="https://github.com/aelk23" target="_blank">
@@ -87,4 +87,4 @@ I am passionate about combining geospatial analytics with artificial intelligenc
   </a>
 </p>
 
-اكتب_كود_الخطوة_الثانية_هنا
+[حط كود الـ Badge بتاع الخطوة الثانية هنا]
