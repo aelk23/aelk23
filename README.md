@@ -76,8 +76,7 @@ I am passionate about combining geospatial analytics with artificial intelligenc
 
 ## 🌐 Connect with Me
 
-[حط كود الـ Script بتاع الخطوة الأولى هنا]
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <p align="left">
   <a href="https://github.com/aelk23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoRadius=5" />
@@ -87,4 +86,5 @@ I am passionate about combining geospatial analytics with artificial intelligenc
   </a>
 </p>
 
-[حط كود الـ Badge بتاع الخطوة الثانية هنا]
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="abdelrhman-elktawey" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/abdelrhman-elktawey?trk=profile-badge">Abdelrhman Elktawey</a></div>
+              
