@@ -74,13 +74,28 @@ I am passionate about combining geospatial analytics with artificial intelligenc
 
 ---
 
+---
+
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://github.com/aelk23" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoRadius=5" />
-  </a>
+<p align="center">
   <a href="https://www.linkedin.com/in/abdelrhman-elktawey/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoRadius=5" />
+    <img src="https://img.shields.io/badge/LinkedIn-Abdelrhman%20Elktawey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aelk23" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abdelrhman-elktawey/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelrhman-elktawey/" target="_blank">
+    View my LinkedIn Profile →
   </a>
 </p>
