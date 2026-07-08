@@ -76,6 +76,9 @@ I am passionate about combining geospatial analytics with artificial intelligenc
 
 ## 🌐 Connect with Me
 
+<!-- Step 1: كود السكريبت الأساسي من لينكد إن يوضع هنا -->
+<!-- ضع هنا كود الخطوة الأولى المنسوخ من السطر المكتوب تحته Copy code -->
+
 <p align="left">
   <a href="https://github.com/aelk23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoRadius=5" />
@@ -84,3 +87,8 @@ I am passionate about combining geospatial analytics with artificial intelligenc
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoRadius=5" />
   </a>
 </p>
+
+<!-- Step 2: كارت الـ Badge يظهر هنا بشكل أنيق أسفل أزرار التواصل مباشرة -->
+<div align="left" style="margin-top: 15px;">
+  <!-- ضع هنا كود البادج المنسوخ من الخطوة الثانية بعد اختيار المقاس المفضل لك -->
+</div>
